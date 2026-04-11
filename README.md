@@ -1,2 +1,2 @@
 # wallet-tracker-web
-Web App
+Eth Wallet Tracker (Powered by GetBlock)
